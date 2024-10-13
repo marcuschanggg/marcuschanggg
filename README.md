@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcuschanggg
-- 👀 I’m interested in data analysis and cybersecurity
+- 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning fundamentals in data science
 - 💞️ I’m looking to collaborate on projects and team codes
 - 📫 How to reach me - marcuschang12@gmail.com
